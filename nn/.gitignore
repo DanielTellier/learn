@@ -1,0 +1,6 @@
+# Python
+*.pyc
+
+# NN
+micrograd/
+nn-zero-to-hero/
